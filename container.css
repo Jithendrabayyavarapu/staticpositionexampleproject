@@ -1,0 +1,20 @@
+#circle{
+    width:250px;
+    height:250px;
+    border-radius: 250px;
+    background: blue;
+    position:absolute;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+.container{
+    border:1px solid black;
+    top:200px;
+    left: 200px;
+    height:300px;
+    width:500px;
+    position:relative;
+    background-color: aquamarine;
+    padding-left: 200px;
+    padding-top: 150px;
+}
